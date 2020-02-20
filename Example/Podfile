@@ -1,0 +1,6 @@
+use_frameworks!
+target 'Onboardfy_Tests' do
+  pod 'Onboardfy', :path => '../'
+  
+  
+end
