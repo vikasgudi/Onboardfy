@@ -1,0 +1,6 @@
+framework module Onboardfy {
+  umbrella header "Onboardfy-umbrella.h"
+
+  export *
+  module * { export * }
+}

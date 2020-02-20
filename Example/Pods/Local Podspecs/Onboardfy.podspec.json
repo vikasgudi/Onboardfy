@@ -1,0 +1,32 @@
+{
+  "name": "Onboardfy",
+  "version": "0.1.0",
+  "summary": "A short description of Onboardfy.",
+  "description": "Short description",
+  "homepage": "https://github.com/vikasgudi/Onboardfy",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "vikas@emproto.com": "vikas@emproto.com"
+  },
+  "source": {
+    "git": "https://github.com/vikasgudi/Onboardfy.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Onboardfy/Classes/**/*",
+  "public_header_files": "Pods/**/*.h",
+  "frameworks": "UIKit",
+  "dependencies": {
+    "AFNetworking": [
+      "~> 2.3"
+    ],
+    "SVProgressHUD": [
+
+    ]
+  }
+}
